@@ -1,4 +1,4 @@
-# MarvelApiApplication
+# Marvel-Api-Application
 
 Collaboration app using the Angular Tour of Heroes Tutorial and Marvel's API
 
