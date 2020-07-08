@@ -1,7 +1,11 @@
 /* AppComponent's private CSS styles */
 h1 {
-  font-size: 1.2em;
+  font-size: 1.7em;
   margin-bottom: 0;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  background-color: #fff;
 }
 
 h2 {
@@ -10,11 +14,15 @@ h2 {
   padding-top: 0;
 }
 
+nav {
+    text-align: center;
+}
 nav a {
   padding: 5px 10px;
   text-decoration: none;
   margin-top: 10px;
   display: inline-block;
+  text-align: center;
   background-color: #eee;
   border-radius: 4px;
 }
