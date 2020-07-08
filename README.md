@@ -1,6 +1,6 @@
-# MarvelApiApplication
+# Marvel-Api-Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+Collaboration app using the Angular Tour of Heroes Tutorial and Marvel's API
 
 ## Development server
 
